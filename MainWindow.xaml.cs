@@ -30,8 +30,6 @@ namespace CAHCore
 
         private DispatcherTimer timer = new DispatcherTimer() { Interval = TimeSpan.FromSeconds(3) };
 
-        private static DateTime expiry = new DateTime(2020, 4, 20, 0, 0, 0, 0);
-
         private int HandSize
         {
             get
@@ -54,21 +52,6 @@ namespace CAHCore
                 sbLabel.Content = "";
                 this.timer.Stop();
             };
-
-
-            if (DateTime.Now > expiry)
-            {
-                MessageBox.Show("This version is expired.\n\nAs I am actively developing this app to make it suck less, I don't want crappy old versions hanging around. Contact adam.shirey@gmail.com for a new version.", "Expired", MessageBoxButton.OK, MessageBoxImage.Exclamation, MessageBoxResult.OK);
-                System.Windows.Application.Current.Shutdown();
-            }
-            else
-            {
-                this.HandOfCards = new List<Card>();
-                this.cardDatabase = new CardDatabase();
-
-                sbLabel.Content = $"Loaded {this.cardDatabase.RemainingPromptCards} prompt cards and {this.cardDatabase.RemainingResponseCards} response cards";
-                this.timer.Start();
-            }
 
             // Setup menu of different versions
             {
