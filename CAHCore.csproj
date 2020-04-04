@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Authors>Adam Shirey</Authors>
+    <Description>A Cards Against Humanity desktop app so you can still play with your terrible friends while in quarantine.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CAHCards.tsv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="CAHCards.tsv" />
+  </ItemGroup>
+
+</Project>
