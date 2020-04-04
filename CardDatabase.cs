@@ -11,6 +11,8 @@ namespace CAHCore
     {
         private static Random random = new Random();
 
+        private static readonly List<Card> EmbeddedCards;
+
         private List<Card> PromptCards = new List<Card>(),
             ResponseCards = new List<Card>(),
             UsedPromptCards = new List<Card>(),
@@ -20,48 +22,66 @@ namespace CAHCore
         public int RemainingResponseCards => ResponseCards.Count;
 
 
-        public CardDatabase()
+        static CardDatabase()
         {
+            EmbeddedCards = new List<Card>();
+
             var assembly = Assembly.GetExecutingAssembly();
             var stream = assembly.GetManifestResourceStream("CAHCore.CAHCards.tsv");
             using (var reader = new StreamReader(stream))
             {
                 string[] header = reader.ReadLine().Split('\t'); // column headings
 
-                // for now, we'll skip anything that isn't a US vX.X card
-                var usColumns = header
-                    .Select((col, i) => Tuple.Create(col, i))
-                    .Where(tup => tup.Item1.Contains("US v"))
-                    .Select(tup => tup.Item2)
-                    .ToArray();
-
-                var maxCol = usColumns.Max();
-
                 while (!reader.EndOfStream)
                 {
                     var columns = reader.ReadLine().Split('\t');
 
-                    if (columns.Length < 2 || string.IsNullOrWhiteSpace(columns[1]))
+                    if (columns.Length < 4 || string.IsNullOrWhiteSpace(columns[1]))
                         continue;
 
                     try
                     {
-                        // keep only US cols
-                        if (columns.Length > maxCol && usColumns.Any(index => !string.IsNullOrWhiteSpace(columns[index])))
+                        string cardType = columns[0],
+                            cardContent = columns[1],
+                            special = columns[2],
+                            delimitedDecks = columns[3];
+
+                        var decks = Utility.DecksFromList(delimitedDecks.Split('|', StringSplitOptions.RemoveEmptyEntries));
+
+                        EmbeddedCards.Add(new Card
                         {
-                            var content = columns[1].Replace("\\n", "\n");
-                            if (columns[0] == "Prompt")
-                            {
-                                this.PromptCards.Add(new Card(CardType.PromptBlack, content));
-                            }
-                            else if (columns[0] == "Response")
-                            {
-                                this.ResponseCards.Add(new Card(CardType.ResponseWhite, content));
-                            }
-                        }
+                            CardType = cardType == "Prompt" ? CardType.PromptBlack : CardType.ResponseWhite,
+                            CardText = cardContent,
+                            Decks = decks
+                        });
+
                     }
-                    catch
+                    catch (Exception e)
                     {
+                    }
+                }
+            }
+
+
+
+        }
+
+        public CardDatabase(Decks decksToInclude = Decks.US__v1_0)
+        {
+            this.PromptCards = new List<Card>();
+            this.ResponseCards = new List<Card>();
+
+            foreach (var card in EmbeddedCards)
+            {
+                if ((card.Decks & decksToInclude) > 0)
+                {
+                    if (card.CardType == CardType.PromptBlack)
+                    {
+                        this.PromptCards.Add(card);
+                    }
+                    else if (card.CardType == CardType.ResponseWhite)
+                    {
+                        this.ResponseCards.Add(card);
                     }
                 }
             }

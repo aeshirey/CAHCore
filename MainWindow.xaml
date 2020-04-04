@@ -20,12 +20,14 @@
         </Grid.RowDefinitions>
         <Menu Grid.Row="0" x:Name="menu" Grid.ColumnSpan="3">
             <MenuItem Header="_File">
-                <MenuItem Header="Cards">
-                    <MenuItem Name="HandSize5" Header="5" Click="SetHandSize_Click" />
-                    <MenuItem Name="HandSize6" Header="6" Click="SetHandSize_Click" />
-                    <MenuItem Name="HandSize7" Header="7" Click="SetHandSize_Click" />
-                    <MenuItem Name="HandSize8" Header="8" Click="SetHandSize_Click" />
+                <MenuItem Header="Start New Game" Click="StartNewGame_Click" />
+                <MenuItem Header="Hand Size">
+                    <MenuItem Name="HandSize5" Header="5" Click="SetHandSize_Click" IsCheckable="True"/>
+                    <MenuItem Name="HandSize6" Header="6" Click="SetHandSize_Click" IsCheckable="True" />
+                    <MenuItem Name="HandSize7" Header="7" Click="SetHandSize_Click" IsCheckable="True" />
+                    <MenuItem Name="HandSize8" Header="8" Click="SetHandSize_Click" IsCheckable="True" />
                 </MenuItem>
+                <MenuItem Name="FileDecks" Header="_Decks" />
                 <MenuItem Header="Deal _Prompt Card" Click="DealPromptCard_Click"/>
             </MenuItem>
         </Menu>

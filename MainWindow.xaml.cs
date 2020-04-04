@@ -32,6 +32,18 @@ namespace CAHCore
 
         private static DateTime expiry = new DateTime(2020, 4, 20, 0, 0, 0, 0);
 
+        private int HandSize
+        {
+            get
+            {
+                if (HandSize5.IsChecked) return 5;
+                if (HandSize6.IsChecked) return 6;
+                if (HandSize7.IsChecked) return 7;
+                if (HandSize8.IsChecked) return 8;
+                return 5;
+            }
+        }
+
         public MainWindow()
         {
             InitializeComponent();
@@ -57,7 +69,34 @@ namespace CAHCore
                 sbLabel.Content = $"Loaded {this.cardDatabase.RemainingPromptCards} prompt cards and {this.cardDatabase.RemainingResponseCards} response cards";
                 this.timer.Start();
             }
+
+            // Setup menu of different versions
+            {
+                for (int i = 0; i < Card.NUM_DECKS_AVAILABLE; i++)
+                {
+                    Decks deck = (Decks)(1UL << i);
+
+                    var name = deck.ToString().Replace("__", " ").Replace("_", ".");
+                    var mi = new MenuItem()
+                    {
+                        Header = name,
+                        IsCheckable = true,
+                        StaysOpenOnClick = true,
+                        Tag = deck,
+                        IsChecked = (i == 0) // only use US v1.0 by default
+                    };
+
+                    mi.Click += (miSender, miEventArgs) =>
+                    {
+                        sbLabel.Content = "Deck setting updated. Start a new game from the File menu to effect the change.";
+                        timer.Start();
+                    };
+
+                    FileDecks.Items.Add(mi);
+                }
+            }
         }
+
 
         private void canvas_MouseUp(object sender, MouseButtonEventArgs e)
         {
@@ -113,33 +152,26 @@ namespace CAHCore
 
         private void SetHandSize_Click(object sender, RoutedEventArgs e)
         {
-            // how many?
-            int handSize;
-            if (sender == HandSize5)
-                handSize = 5;
-            else if (sender == HandSize6)
-                handSize = 6;
-            else if (sender == HandSize7)
-                handSize = 7;
-            else if (sender == HandSize8)
-                handSize = 8;
-            else
-                handSize = 5;
+            // make sure the checkboxes are set correctly
+            HandSize5.IsChecked = (sender == HandSize5);
+            HandSize6.IsChecked = (sender == HandSize6);
+            HandSize7.IsChecked = (sender == HandSize7);
+            HandSize8.IsChecked = (sender == HandSize8);
 
-            if (handSize == this.HandOfCards.Count)
+            if (HandSize == this.HandOfCards.Count)
             {
                 // nothing to do - bail!
                 return;
             }
 
-            if (handSize < this.HandOfCards.Count)
+            if (HandSize < this.HandOfCards.Count)
             {
                 // remove some cards
-                this.HandOfCards.RemoveRange(handSize, this.HandOfCards.Count - handSize);
+                this.HandOfCards.RemoveRange(HandSize, this.HandOfCards.Count - HandSize);
             }
             else
             {
-                while (handSize > this.HandOfCards.Count)
+                while (HandSize > this.HandOfCards.Count)
                 {
                     // add a cards in
                     this.HandOfCards.Add(cardDatabase.GetCard(CardType.ResponseWhite));
@@ -155,6 +187,31 @@ namespace CAHCore
         {
             // window resized -- redraw the canvas
             Utility.DrawHand(canvas, this.HandOfCards, this.selectedCard);
+        }
+
+
+        private void StartNewGame_Click(object sender, RoutedEventArgs e)
+        {
+            Decks decksToUse = (Decks)0;
+
+            for (int i = 0; i < Card.NUM_DECKS_AVAILABLE; i++)
+            {
+                var mi = FileDecks.Items[i] as MenuItem;
+                if (mi.IsChecked)
+                {
+                    var deck = (Decks)mi.Tag;
+                    decksToUse |= deck;
+                }
+            }
+
+            this.selectedCard = null;
+            this.cardDatabase = new CardDatabase(decksToUse);
+            this.HandOfCards = Enumerable
+                .Range(0, HandSize)
+                .Select(i => cardDatabase.GetCard(CardType.ResponseWhite))
+                .ToList();
+
+            Utility.DrawHand(canvas, this.HandOfCards);
         }
     }
 }

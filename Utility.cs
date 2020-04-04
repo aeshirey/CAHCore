@@ -72,5 +72,60 @@ namespace CAHCore
             canvas.Children.Add(image);
         }
 
+
+        private static readonly string[] DecksMapping = new string[]
+        {
+            "US v1.0",
+            "US v1.1",
+            "US v1.2",
+            "US v1.3",
+            "US v1.4",
+            "US v1.5",
+            "UK v1.5",
+            "US v1.6",
+            "UK v1.6",
+            "CA v1.6",
+            "AU v1.6",
+            "US v1.7",
+            "CA v1.7",
+            "UK v1.7",
+            "AU v1.7",
+            "CA v1.7a",
+            "US v2.0",
+            "CA v2.0",
+            "UK v2.0",
+            "AU v2.0",
+            "INTL v2.0",
+            "US v2.1",
+        };
+
+        /// <summary>
+        /// Take a list of strings representing the decks we have and turn it into the [Flags] enum.
+        /// </summary>
+        /// <param name="decks">Strings rfom the embedded CAHCards.tsv (eg, "US v1.0")</param>
+        /// <returns>A Decks enum representing the specified decks (eg, Decks.US__v1_0)</returns>
+        /// <remarks>Interestingly, Enum.Parse is stupid slow. I had wanted to do a more functional style:
+        ///     var decks = delimitedDecks
+        ///        .Split('|', StringSplitOptions.RemoveEmptyEntries)
+        ///        .Select(d => (Decks)Enum.Parse(typeof(Decks), d.Replace('.', '_').Replace(" ", "__")))
+        ///        .Aggregate((d1, d2) => d1 | d2);
+        /// But that takes 20 seconds (!) to run compared with this one which is sub-second. Meh.
+        /// Eventually, I may remove the hard-coded values in favor of using Enum.GetNames; for an example,
+        /// see https://stackoverflow.com/a/34775560/1191181
+        ///</remarks>
+        public static Decks DecksFromList(string[] decks)
+        {
+            Decks result = (Decks)0;
+            foreach (string deck in decks)
+            {
+                int index = Array.IndexOf(Utility.DecksMapping, deck);
+                if (index != -1)
+                {
+                    result |= (Decks)(1 << index);
+                }
+            }
+
+            return result;
+        }
     }
 }
