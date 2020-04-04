@@ -66,7 +66,7 @@ namespace CAHCore
                         IsCheckable = true,
                         StaysOpenOnClick = true,
                         Tag = deck,
-                        IsChecked = (i == 0) // only use US v1.0 by default
+                        IsChecked = (i == 0)
                     };
 
                     mi.Click += (miSender, miEventArgs) =>

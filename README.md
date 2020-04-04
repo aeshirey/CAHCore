@@ -7,4 +7,4 @@ Click a card once to select it. Click it again to copy the card's text to your c
 
 When you win a hand, you'll have to draw a prompt card separately from `File` -> `Deal Prompt Card`.
 
-If you play so much that you run out of cards, the app will probably crash. This is a v0.1.0-alpha, so... 🤷‍♂️.
+This is a v0.1.0-alpha, so... Good luck. Feel free to submit your awesome enhancements to this crappy program.
