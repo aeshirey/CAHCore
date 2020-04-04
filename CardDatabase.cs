@@ -11,22 +11,6 @@ namespace CAHCore
     {
         private static Random random = new Random();
 
-
-        //private List<Card> PromptCards = new List<Card>
-        //{
-        //    new Card(CardType.PromptBlack, "An international tribunal has found ______ guilty of ______.")
-        //};
-
-        //private List<Card> ResponseCards = new List<Card>
-        //{
-        //     new Card(CardType.ResponseWhite,  "A little boy who won't shut the fuck up about dinosaurs."),
-        //     new Card(CardType.ResponseWhite,  "A live studio audience."),
-        //     new Card(CardType.ResponseWhite,  "A look-see."),
-        //     new Card(CardType.ResponseWhite,  "A low standard of living."),
-        //     new Card(CardType.ResponseWhite,  "A mad cow."),
-        //     new Card(CardType.ResponseWhite,  "A madman who lives in a police box and kidnaps women.")
-        //};
-
         private List<Card> PromptCards = new List<Card>(),
             ResponseCards = new List<Card>(),
             UsedPromptCards = new List<Card>(),
@@ -87,6 +71,13 @@ namespace CAHCore
         {
             if (type == CardType.PromptBlack)
             {
+                if (RemainingPromptCards == 0)
+                {
+                    // Move all the used cards to new pile.
+                    PromptCards = UsedPromptCards;
+                    UsedPromptCards = new List<Card>();
+                }
+
                 var index = random.Next(0, PromptCards.Count);
                 var card = this.PromptCards[index];
                 PromptCards.RemoveAt(index);
@@ -95,6 +86,13 @@ namespace CAHCore
             }
             else
             {
+                if (RemainingResponseCards == 0)
+                {
+                    ResponseCards = UsedResponseCards;
+                    UsedResponseCards = new List<Card>();
+                }
+
+
                 var index = random.Next(0, ResponseCards.Count);
                 var card = this.ResponseCards[index];
                 ResponseCards.RemoveAt(index);
