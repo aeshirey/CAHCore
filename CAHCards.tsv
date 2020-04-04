@@ -1,5 +1,5 @@
 Card Type	Card Content	Special	Decks
-Prompt	______ + ______ = ______.	"DRAW 2, PICK 3"	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	______ + ______ = ______.	DRAW 2, PICK 3	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	______ is a slippery slope that leads to ______.	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	______ would be woefully incomplete without ______.	PICK 2	INTL v2.0
 Prompt	______: good to the last drop.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
@@ -20,15 +20,15 @@ Prompt	50% of all marriages end in ______.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v
 Prompt	A recent laboratory study shows that undergraduates have 50% less sex after being exposed to ______.		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	A remarkable new study has shown that chimps have evolved their own primitive version of ______.		INTL v2.0
 Prompt	A romantic candlelit dinner would be incomplete without ______.		
-Prompt	"A romantic, candlelit dinner would be incomplete without ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	A romantic, candlelit dinner would be incomplete without ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	A successful job interview begins with a firm handshake and ends with ______.		INTL v2.0
-Prompt	"ABC presents: ""______: The Story of ______."""	PICK 2	AU v1.6|AU v1.7|AU v2.0
-Prompt	"After eight years in the White House, how is Obama finally letting loose?"		US v2.0|US v2.1
-Prompt	"After four platinum albums and three Grammys, it's time to get back to my roots, to what inspired me to make music in the first place: ______."		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"After Hurricane Katrina, Sean Penn brought ______ to all the people of New Orleans."		US v1.0|US v1.1
-Prompt	"After Hurricane Katrina, Sean Penn brought ______ to the people of New Orleans."		
-Prompt	"After months of practice with ______, I think I�m finally ready for ______."	PICK 2	INTL v2.0
-Prompt	"After the earthquake, Sean Penn brought ______ to the people of Haiti."		US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
+Prompt	ABC presents: "______: The Story of ______."	PICK 2	AU v1.6|AU v1.7|AU v2.0
+Prompt	After eight years in the White House, how is Obama finally letting loose?		US v2.0|US v2.1
+Prompt	After four platinum albums and three Grammys, it's time to get back to my roots, to what inspired me to make music in the first place: ______.		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	After Hurricane Katrina, Sean Penn brought ______ to all the people of New Orleans.		US v1.0|US v1.1
+Prompt	After Hurricane Katrina, Sean Penn brought ______ to the people of New Orleans.		
+Prompt	After months of practice with ______, I think I�m finally ready for ______.	PICK 2	INTL v2.0
+Prompt	After the earthquake, Sean Penn brought ______ to the people of Haiti.		US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Prompt	Air Canada guidelines now prohibit ______ on airplanes.		CA v1.7|CA v1.7a|CA v2.0
 Prompt	Airport security�guidelines now prohibit ______ on airplanes.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Prompt	Alternative medicine is now embracing the curative powers of ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
@@ -37,116 +37,116 @@ Prompt	And the�BAFTA�for ______ goes to ______. 		UK v1.5|UK v1.6|UK v1.7|UK
 Prompt	And what did you bring for show and tell?		INTL v2.0
 Prompt	Anthropologists have recently discovered a primitive tribe that worships ______.		US v1.0|US v1.1|US v1.2
 Prompt	Arby's: We Have ______.		US v2.0|US v2.1
-Prompt	"Are you thinking what I'm thinking, B1?\n\nI think I am, B2: it's ______ time!"		AU v1.6|AU v1.7|AU v2.0
-Prompt	"As my New Year's resolution, I vow to give up ______."		AU v1.6
-Prompt	"As the mom of five rambunctious boys, I'm no stranger to ______."		US v2.0|CA v2.0|US v2.1|AU v2.0
+Prompt	Are you thinking what I'm thinking, B1?\n\nI think I am, B2: it's ______ time!		AU v1.6|AU v1.7|AU v2.0
+Prompt	As my New Year's resolution, I vow to give up ______.		AU v1.6
+Prompt	As the mom of five rambunctious boys, I'm no stranger to ______.		US v2.0|CA v2.0|US v2.1|AU v2.0
 Prompt	Betcha can't have just one!		
 Prompt	BILLY MAYS HERE FOR ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5
 Prompt	Bravo's new reality show features eight washed-up celebrities living with ______.		US v2.0|CA v2.0|US v2.1
-Prompt	"Brought to you by Bud Light�, the Official Beer of ______."		US v2.0|US v2.1
-Prompt	"Brought to you by Molson Canadian, the Official Beer of ______."		CA v2.0
-Prompt	"Brought to you by XXXX Gold, the Official Beer of ______."		AU v2.0
-Prompt	"But before I kill you, Mr. Bond, I must show you ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"CBC presents ""___: the Story of ___."""		CA v2.0
-Prompt	"Channel 4�presents ______, the story of ______."		UK v1.5|UK v1.6|UK v1.7|UK v2.0
+Prompt	Brought to you by Bud Light�, the Official Beer of ______.		US v2.0|US v2.1
+Prompt	Brought to you by Molson Canadian, the Official Beer of ______.		CA v2.0
+Prompt	Brought to you by XXXX Gold, the Official Beer of ______.		AU v2.0
+Prompt	But before I kill you, Mr. Bond, I must show you ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	CBC presents "___: the Story of ___."		CA v2.0
+Prompt	Channel 4�presents ______, the story of ______.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Prompt	Channel 5's new reality show features eight washed-up celebrities living with ______.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
-Prompt	"Channel 9 is pleased to present its new variety show, ""Hey Hey It's ______."""		AU v1.6|AU v1.7|AU v2.0
+Prompt	Channel 9 is pleased to present its new variety show, "Hey Hey It's ______."		AU v1.6|AU v1.7|AU v2.0
 Prompt	Charades was ruined for me forever when my mom had to act out ______.		INTL v2.0
-Prompt	"Check me out, yo! I call this dance move ""______."""		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	Check me out, yo! I call this dance move "______."		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	Click Here for ______!!!		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"Coming this season, Samuel Beckett's classic existential play: Waiting for ______."		INTL v2.0
-Prompt	"Coming to Broadway this season, ______: The Musical."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"Coming to�the West End�this year, ______: The Musical."		UK v1.5|UK v1.6|UK v1.7|UK v2.0
+Prompt	Coming this season, Samuel Beckett's classic existential play: Waiting for ______.		INTL v2.0
+Prompt	Coming to Broadway this season, ______: The Musical.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	Coming to�the West End�this year, ______: The Musical.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Prompt	Crikey! I've never seen ______ like this before! Let's get a bit closer.		AU v1.6|AU v1.7|AU v2.0
-Prompt	"CTV presents ""______: the Story of ______."""	PICK 2	CA v1.7|CA v1.7a
-Prompt	"Daddy, why is mommy crying?"		US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|INTL v2.0|US v2.1
-Prompt	"Daddy, why is mummy crying?"		UK v1.5|UK v1.6|AU v1.6|UK v1.7|AU v1.7|UK v2.0|AU v2.0
-Prompt	"Dear Abby, I'm having some trouble with ______ and would like your advice."		US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
-Prompt	"Dear�Agony Aunt, I'm having some trouble with ________ and I need your advice."		UK v1.5|UK v1.6|UK v1.7|UK v2.0
-Prompt	"Dear Sir or Madam, We regret to inform you that the Office of ______ has denied your request for ______."	PICK 2	INTL v2.0
-Prompt	"Doctor, you've gone too far! The human body wasn't meant to withstand that amount of ______!"		INTL v2.0
-Prompt	"Dude, do not go in that bathroom. There's ______ in there."		US v2.0|INTL v2.0|US v2.1
-Prompt	"Dude, do not go in that washroom. There's ______ in there."		CA v2.0
-Prompt	"Due to a PR fiasco, Walmart no longer offers ______."		US v1.0|US v1.1
-Prompt	"During his childhood, Salvador Dali produced hundreds of paintings of ______."		US v1.3|US v1.4|US v1.5|UK v1.5
-Prompt	"During his midlife crisis, my dad got really into ______."		INTL v2.0
-Prompt	"During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of ______."		US v1.0|US v1.1|US v1.2
-Prompt	"During sex, I like to think about ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	CTV presents "______: the Story of ______."	PICK 2	CA v1.7|CA v1.7a
+Prompt	Daddy, why is mommy crying?		US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|INTL v2.0|US v2.1
+Prompt	Daddy, why is mummy crying?		UK v1.5|UK v1.6|AU v1.6|UK v1.7|AU v1.7|UK v2.0|AU v2.0
+Prompt	Dear Abby, I'm having some trouble with ______ and would like your advice.		US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
+Prompt	Dear�Agony Aunt, I'm having some trouble with ________ and I need your advice.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
+Prompt	Dear Sir or Madam, We regret to inform you that the Office of ______ has denied your request for ______.	PICK 2	INTL v2.0
+Prompt	Doctor, you've gone too far! The human body wasn't meant to withstand that amount of ______!		INTL v2.0
+Prompt	Dude, do not go in that bathroom. There's ______ in there.		US v2.0|INTL v2.0|US v2.1
+Prompt	Dude, do not go in that washroom. There's ______ in there.		CA v2.0
+Prompt	Due to a PR fiasco, Walmart no longer offers ______.		US v1.0|US v1.1
+Prompt	During his childhood, Salvador Dali produced hundreds of paintings of ______.		US v1.3|US v1.4|US v1.5|UK v1.5
+Prompt	During his midlife crisis, my dad got really into ______.		INTL v2.0
+Prompt	During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of ______.		US v1.0|US v1.1|US v1.2
+Prompt	During sex, I like to think about ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	Finally! A service that delivers ______ right to your door.		INTL v2.0
-Prompt	"For my next trick, I will pull ______ out of ______."	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"Fun tip! When your man asks you to go down on him, try surprising him with ______ instead."		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	For my next trick, I will pull ______ out of ______.	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	Fun tip! When your man asks you to go down on him, try surprising him with ______ instead.		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	Future historians will agree that ______ marked the beginning of America's decline.		INTL v2.0
 Prompt	Having problems with ______? Try ______!	PICK 2	INTL v2.0
-Prompt	"Here is the church\nHere is the steeple\nOpen the doors\nAnd there is ______."		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"Hey guys, welcome to Boston Pizza! Would you like to start the night off right with ______?"		CA v2.0
-Prompt	"Hey guys, welcome to Chili's! Would you like to start the night off right with ______?"		US v2.0|US v2.1
-Prompt	"Hey guys, welcome to Sizzler! Would you like to start the night off right with ______?"		AU v2.0
-Prompt	"Hey guys, welcome to TGIF! Would you like to start the night off right with ______?"		UK v2.0
+Prompt	Here is the church\nHere is the steeple\nOpen the doors\nAnd there is ______.		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	Hey guys, welcome to Boston Pizza! Would you like to start the night off right with ______?		CA v2.0
+Prompt	Hey guys, welcome to Chili's! Would you like to start the night off right with ______?		US v2.0|US v2.1
+Prompt	Hey guys, welcome to Sizzler! Would you like to start the night off right with ______?		AU v2.0
+Prompt	Hey guys, welcome to TGIF! Would you like to start the night off right with ______?		UK v2.0
 Prompt	Hey Reddit! I'm ______. Ask me anything.		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	How am I maintaining my relationship status?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|UK v2.0|AU v2.0
 Prompt	How did I lose my virginity?		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"I do not know with what weapons World War III will be fought, but World War IV will be fought with ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6
+Prompt	I do not know with what weapons World War III will be fought, but World War IV will be fought with ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6
 Prompt	I drink to forget ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	I get by with a little help from ______.		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	I got 99 problems but ______ ain't one.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"I know when that hotline bling, that can only mean one thing: ______."		CA v2.0
+Prompt	I know when that hotline bling, that can only mean one thing: ______.		CA v2.0
 Prompt	I learned the hard way that you can't cheer up a grieving friend with ______.		INTL v2.0
 Prompt	I never truly understood ______ until I encountered ______.	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"I spent my whole life working toward ______, only to have it ruined by ______."	PICK 2	INTL v2.0
+Prompt	I spent my whole life working toward ______, only to have it ruined by ______.	PICK 2	INTL v2.0
 Prompt	I wish I hadn't lost the instruction manual for ______.		US v1.0|US v1.1
 Prompt	I'm going on a cleanse this week. Nothing but kale juice and ______.		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"I'm Lebron James, and when I'm not slamming dunks, I love ______."		US v2.0|CA v2.0|AU v2.0|US v2.1
-Prompt	"I'm no doctor, but I'm pretty sure what you're suffering from is called ""______."""		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"I'm sorry, Professor, but I couldn't complete my homework because of ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|INTL v2.0|US v2.1
-Prompt	"I'm sorry, Sir, but I couldn't complete my homework because of ______."		UK v1.5|UK v1.6|AU v1.6|UK v1.7|AU v1.7|UK v2.0|AU v2.0
+Prompt	I'm Lebron James, and when I'm not slamming dunks, I love ______.		US v2.0|CA v2.0|AU v2.0|US v2.1
+Prompt	I'm no doctor, but I'm pretty sure what you're suffering from is called "______."		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	I'm sorry, Professor, but I couldn't complete my homework because of ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|INTL v2.0|US v2.1
+Prompt	I'm sorry, Sir, but I couldn't complete my homework because of ______.		UK v1.5|UK v1.6|AU v1.6|UK v1.7|AU v1.7|UK v2.0|AU v2.0
 Prompt	I�m not like the rest of you. I�m too rich and busy for ______.		INTL v2.0
-Prompt	"If you can't be with the one you love, love ______."		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"IF you like ______, YOU MIGHT BE A REDNECK."		US v2.0|CA v2.0|US v2.1
-Prompt	"In 1,000 years, when paper money is a distant memory, how will we pay for goods and services?"		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6
-Prompt	"In 1,000 years, when paper money is but a distant memory, ______ will be our currency."		US v1.0|US v1.1|US v1.2
+Prompt	If you can't be with the one you love, love ______.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	IF you like ______, YOU MIGHT BE A REDNECK.		US v2.0|CA v2.0|US v2.1
+Prompt	In 1,000 years, when paper money is a distant memory, how will we pay for goods and services?		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6
+Prompt	In 1,000 years, when paper money is but a distant memory, ______ will be our currency.		US v1.0|US v1.1|US v1.2
 Prompt	In a world ravaged by ______ our only solace is ______.	PICK 2	INTL v2.0
-Prompt	"In a world ravaged by ______, our only solace is ______."	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|UK v2.0
-Prompt	"In an attempt to reach a wider audience, the National Museum of Australia has opened an interactive exhibit on ______."		AU v1.6
-Prompt	"In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on ______."		US v1.0|US v1.1|US v1.2
-Prompt	"In Australia, ______ is twice as big and twice as deadly."		AU v1.6|AU v1.7|AU v2.0
-Prompt	"In Belmarsh Prison, word is you can trade 200 cigarettes for ______."		UK v2.0
-Prompt	"In�her latest feature-length film,�Tracy Beaker struggles with ______ for the first time."		UK v1.5|UK v1.6|UK v1.7
-Prompt	"In his new self-produced album, Kanye West raps over the sounds of ______."		INTL v2.0
-Prompt	"In his new summer comedy, Rob Schneider is ______ trapped in the body of ______."	PICK 2	US v1.0|US v1.1
-Prompt	"In L.A. County Jail, word is you can trade 200 cigarettes for ______."		US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a
-Prompt	"In M. Night Shyamalan's new movie, Bruce Willis discovers that ______ had really been ______ all along."	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"In Michael Jackson's final moments, he thought about ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
-Prompt	"In Rome, there are whisperings that the Vatican has a secret room devoted to ______."		INTL v2.0
-Prompt	"In the new Disney Channel Original Movie, Hannah Montana struggles with ______ for the first time."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|AU v2.0|US v2.1
-Prompt	"In the seventh circle of Hell, sinners must endure ______ for all eternity."		INTL v2.0
-Prompt	"In�Wormwood Scrubs, word is you can trade 200 cigarettes for ______."		UK v1.5|UK v1.6|UK v1.7
-Prompt	"Instead of coal,�Father Christmas�now gives the bad children ______."		UK v1.5|UK v1.6|UK v1.7|UK v2.0
-Prompt	"Instead of coal, Santa now gives the bad children ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|AU v2.0|US v2.1
+Prompt	In a world ravaged by ______, our only solace is ______.	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|UK v2.0
+Prompt	In an attempt to reach a wider audience, the National Museum of Australia has opened an interactive exhibit on ______.		AU v1.6
+Prompt	In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on ______.		US v1.0|US v1.1|US v1.2
+Prompt	In Australia, ______ is twice as big and twice as deadly.		AU v1.6|AU v1.7|AU v2.0
+Prompt	In Belmarsh Prison, word is you can trade 200 cigarettes for ______.		UK v2.0
+Prompt	In�her latest feature-length film,�Tracy Beaker struggles with ______ for the first time.		UK v1.5|UK v1.6|UK v1.7
+Prompt	In his new self-produced album, Kanye West raps over the sounds of ______.		INTL v2.0
+Prompt	In his new summer comedy, Rob Schneider is ______ trapped in the body of ______.	PICK 2	US v1.0|US v1.1
+Prompt	In L.A. County Jail, word is you can trade 200 cigarettes for ______.		US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a
+Prompt	In M. Night Shyamalan's new movie, Bruce Willis discovers that ______ had really been ______ all along.	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	In Michael Jackson's final moments, he thought about ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
+Prompt	In Rome, there are whisperings that the Vatican has a secret room devoted to ______.		INTL v2.0
+Prompt	In the new Disney Channel Original Movie, Hannah Montana struggles with ______ for the first time.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|AU v2.0|US v2.1
+Prompt	In the seventh circle of Hell, sinners must endure ______ for all eternity.		INTL v2.0
+Prompt	In�Wormwood Scrubs, word is you can trade 200 cigarettes for ______.		UK v1.5|UK v1.6|UK v1.7
+Prompt	Instead of coal,�Father Christmas�now gives the bad children ______.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
+Prompt	Instead of coal, Santa now gives the bad children ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|AU v2.0|US v2.1
 Prompt	Introducing the amazing superhero/sidekick duo! It's ______ and ______!	PICK 2	US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"Introducing X-Treme Baseball! It's like baseball, but with ______!"		US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
+Prompt	Introducing X-Treme Baseball! It's like baseball, but with ______!		US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
 Prompt	It's a trap!		
 Prompt	It�s a pity that kids these days are all getting involved with ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"Just once, I'd like to hear you say ""Thanks, Mom. Thanks for ______."""		US v2.0|CA v2.0|INTL v2.0|US v2.1
-Prompt	"Just once, I'd like to hear you say ""Thanks, Mum. Thanks for ______."""		UK v2.0|AU v2.0
+Prompt	Just once, I'd like to hear you say "Thanks, Mom. Thanks for ______."		US v2.0|CA v2.0|INTL v2.0|US v2.1
+Prompt	Just once, I'd like to hear you say "Thanks, Mum. Thanks for ______."		UK v2.0|AU v2.0
 Prompt	Just saw this upsetting video! Please retweet!! #stop______		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"Kids, I don't need drugs to get high. I'm high on ______."		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	Kids, I don't need drugs to get high. I'm high on ______.		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	Life for Aboriginal people was forever changed when the white man introduced them to ______.		AU v1.6|AU v1.7|AU v2.0
 Prompt	Life for American Indians was forever changed when the White Man introduced them to ______.		US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|US v1.7|CA v1.7|UK v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|US v2.1
 Prompt	Life was difficult for cavemen before ______.		US v1.0|US v1.1
 Prompt	Lifetime� presents ______: the Story of ______.	PICK 2	
-Prompt	"Lifetime� presents ""______: the Story of ______."""	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|US v2.0|US v2.1
+Prompt	Lifetime� presents "______: the Story of ______."	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|US v2.0|US v2.1
 Prompt	Lovin� you is easy �cause you�re ______.		INTL v2.0
 Prompt	Major League Baseball has banned ______ for giving players an unfair advantage.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5
-Prompt	Make a haiku.	"DRAW 2, PICK 3"	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"Mate, do not go in that bathroom. There's ______ in there."		UK v2.0
-Prompt	"Mate, do not go in that toilet. There's ______ in there."		AU v2.0
+Prompt	Make a haiku.	DRAW 2, PICK 3	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	Mate, do not go in that bathroom. There's ______ in there.		UK v2.0
+Prompt	Mate, do not go in that toilet. There's ______ in there.		AU v2.0
 Prompt	Maybe she's born with it. Maybe it's ______.		US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	Men's Wearhouse: You're gonna like ______. I guarantee it.		US v2.0|US v2.1
 Prompt	Military historians remember Alexander the Great for his brilliant use of ______ against the Persians.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"Money can�t buy me love, but it can buy me ______."		INTL v2.0
-Prompt	"Mr. and Mrs. Diaz, we called you in because we're concerned about Cynthia. Are you aware that your daughter is ______?"		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	Money can�t buy me love, but it can buy me ______.		INTL v2.0
+Prompt	Mr. and Mrs. Diaz, we called you in because we're concerned about Cynthia. Are you aware that your daughter is ______?		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	MTV's new reality show features eight washed-up celebrities living with ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|AU v2.0
-Prompt	"My fellow Americans: Before this decade is out, we will have ______ on the moon!"		US v2.0|CA v2.0|US v2.1
+Prompt	My fellow Americans: Before this decade is out, we will have ______ on the moon!		US v2.0|CA v2.0|US v2.1
 Prompt	My mom freaked out when she looked at my browser history and found ______.com/______.	PICK 2	INTL v2.0
 Prompt	My plan for world domination begins with ______.	PICK 2	INTL v2.0
 Prompt	Next from J.K. Rowling: Harry Potter and the Chamber of ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -159,12 +159,12 @@ Prompt	Next on Sky Sports: The World Champsion�of ________.		UK v2.0
 https://goo.gl/Mmhvof"			
 Prompt	Next on TSN: The World Series of ______.		CA v1.7|CA v1.7a|CA v2.0
 Prompt	Next up on Channel 4: Ramsay's ______ Nightmares.		UK v2.0
-Prompt	"Nobody expects the Spanish Inquisition. Our chief weapons are fear, surprise, and ________."		UK v1.5|UK v1.6|UK v1.7|UK v2.0
+Prompt	Nobody expects the Spanish Inquisition. Our chief weapons are fear, surprise, and ________.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Prompt	Now at the National Museum of Australia: an interactive exhibit on ______.		AU v1.7
 Prompt	Now at the Natural History Museum: an interactive exhibit on ______.		UK v1.7|UK v2.0
 Prompt	Now at the Royal Ontario Museum: an interactive exhibit on ______.		CA v1.7|CA v1.7a
 Prompt	Now at the Smithsonian: an interactive exhibit on ______.		US v1.7
-Prompt	"O Canada, we stand on guard for ______."		CA v1.6|CA v1.7|CA v1.7a|CA v2.0
+Prompt	O Canada, we stand on guard for ______.		CA v1.6|CA v1.7|CA v1.7a|CA v2.0
 Prompt	Oi! Show us ______!		AU v1.6|AU v1.7|AU v2.0
 Prompt	Old MacDonald had ______. E-I-E-I-O.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	Only two things in life are certain: death and ______.		INTL v2.0
@@ -172,43 +172,43 @@ Prompt	Penalty! ______: that's 5 minutes in the box!		CA v2.0
 Prompt	Qantas now prohibits ______ on airplanes.		AU v1.6|AU v1.7|AU v2.0
 Prompt	Rumor has it that Vladimir Putin's favorite dish is ______ stuffed with ______.	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
 Prompt	Science will never explain ______.		INTL v2.0
-Prompt	"Skidamarink a dink a dink, skidamarink a doo, I love ______."		CA v2.0
-Prompt	"Sorry everyone, I just ______."		US v1.0
-Prompt	"Step 1: ______.\nStep 2: ______.\nStep 3: Profit."	PICK 2	US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	Skidamarink a dink a dink, skidamarink a doo, I love ______.		CA v2.0
+Prompt	Sorry everyone, I just ______.		US v1.0
+Prompt	Step 1: ______.\nStep 2: ______.\nStep 3: Profit.	PICK 2	US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	Studies show that lab rats navigate mazes 50% faster after being exposed to ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
 Prompt	TFL apologizes for the delay in train service due to ______.		UK v1.6|UK v1.7|UK v2.0
-Prompt	"That's right, I killed ______. How, you ask? ______."	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	That's right, I killed ______. How, you ask? ______.	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	The blind date was going horribly until we discovered our shared interest in ______.		INTL v2.0
 Prompt	The class field trip was completely ruined by ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|INTL v2.0|US v2.1
-Prompt	"The Five Stages of Grief: denial, anger, bargaining, ______, acceptance."		INTL v2.0
+Prompt	The Five Stages of Grief: denial, anger, bargaining, ______, acceptance.		INTL v2.0
 Prompt	The healing process began when I joined a support group for victims of ______.		INTL v2.0
 Prompt	The Natural History Museum�has just opened an interactive exhibit on ________.		UK v1.5|UK v1.6
 Prompt	The new Chevy Tahoe. With the power and space to take ______ everywhere you go.		US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
 Prompt	The school excursion was completely ruined by ______.		AU v1.6|AU v1.7|AU v2.0
 Prompt	The�school�field trip was completely ruined by ______.		UK v1.5
 Prompt	The school trip was completely ruined by ______.		UK v1.6|UK v1.7|UK v2.0
-Prompt	"The secret to a lasting marriage is communication, communication, and ______."		INTL v2.0
+Prompt	The secret to a lasting marriage is communication, communication, and ______.		INTL v2.0
 Prompt	The Smithsonian Museum of Natural History has just opened an interactive exhibit on ______.		US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6
 Prompt	The TFL apologizes for the delay in train service due to ________.�		UK v1.5
-Prompt	"The theme for next year's Eurovision Song Contest is ""We are ________."""		UK v1.5|UK v1.6|UK v1.7|UK v2.0|INTL v2.0
+Prompt	The theme for next year's Eurovision Song Contest is "We are ________."		UK v1.5|UK v1.6|UK v1.7|UK v2.0|INTL v2.0
 Prompt	The U.S. has begun airdropping ______ to the children of Afghanistan.		US v1.0|US v1.1
 Prompt	They said we were crazy. They said we couldn't put ______ inside of ______. They were wrong.	PICK 2	US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"This is the way the world ends\nThis is the way the world ends\nNot with a bang but with ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	This is the way the world ends\nThis is the way the world ends\nNot with a bang but with ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	This is your captain speaking. Fasten your seatbelts and prepare for ______.		INTL v2.0
-Prompt	"This season at Steppenwolf, Samuel Beckett's classic existential play: Waitng for ______."		US v2.0|US v2.1
-Prompt	"This season at the old Vic, Samuel Beckett's classic existential play: Waitng for ______."		UK v2.0
-Prompt	"This season at the Princess of Wales Theatre, Samuel Beckett's classic existential play: Waiting for ______."		CA v2.0
-Prompt	"This season at the Sydney Opera House, Samuel Beckett's classic existential play: Waiting for ______."		AU v2.0
-Prompt	"Today on Jerry Springer: ""Help! My son is ______!"""		AU v1.6|AU v1.7|AU v2.0
-Prompt	"Today on Maury: ""Help! My son is ______!"""		US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
-Prompt	"Today on The Jeremy Kyle Show: ""Help! My son is ________!"""		UK v1.6|UK v1.7|UK v2.0
+Prompt	This season at Steppenwolf, Samuel Beckett's classic existential play: Waitng for ______.		US v2.0|US v2.1
+Prompt	This season at the old Vic, Samuel Beckett's classic existential play: Waitng for ______.		UK v2.0
+Prompt	This season at the Princess of Wales Theatre, Samuel Beckett's classic existential play: Waiting for ______.		CA v2.0
+Prompt	This season at the Sydney Opera House, Samuel Beckett's classic existential play: Waiting for ______.		AU v2.0
+Prompt	Today on Jerry Springer: "Help! My son is ______!"		AU v1.6|AU v1.7|AU v2.0
+Prompt	Today on Maury: "Help! My son is ______!"		US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
+Prompt	Today on The Jeremy Kyle Show: "Help! My son is ________!"		UK v1.6|UK v1.7|UK v2.0
 Prompt	Tonight's top story: What you don't know about ________ could kill you.		INTL v2.0
 Prompt	TSA guidelines now prohibit ______ on airplanes.		US v1.0|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|US v2.0|US v2.1
 Prompt	Turns out that ______-Man was neither the hero we needed nor wanted.		INTL v2.0
-Prompt	"Uh, hey guys, I know this was my idea, but I'm having serious doubts about ______."		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	Uh, hey guys, I know this was my idea, but I'm having serious doubts about ______.		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	UKIP: Putting ______ First!		UK v2.0
 Prompt	War! What is it good for?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"Well if you'll excuse me, gentlemen, I have a date with ______."		US v1.7|UK v1.7|AU v1.7|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	Well if you'll excuse me, gentlemen, I have a date with ______.		US v1.7|UK v1.7|AU v1.7|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	What am I giving up for Lent?		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6
 Prompt	What are my parents hiding from me?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	What are school administrators using to curb rampant teenage pregnancy?		UK v1.5|UK v1.6|UK v1.7
@@ -241,7 +241,7 @@ Prompt	What makes me a true blue Aussie?		AU v2.0
 Prompt	What never fails to liven up the party?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	What will always get you laid?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	What will I bring back in time to convince people that I am a powerful wizard?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6
-Prompt	"What would grandma find disturbing, yet oddly charming?"		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Prompt	What would grandma find disturbing, yet oddly charming?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	What's a girl's best friend?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	What's my anti-drug?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6
 Prompt	What's my secret power?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -256,43 +256,43 @@ Prompt	What's the next Happy Meal� toy?		US v1.0|US v1.1|US v1.2|US v1.3|US v1
 Prompt	What's the next superhero/sidekick duo?	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
 Prompt	What's there a ton of in heaven?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|US v1.7|CA v1.7|UK v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|INTL v2.0|US v2.1
 Prompt	What's there a tonne of in heaven?		AU v1.6|AU v1.7|AU v2.0
-Prompt	"When all else fails, I can always masturbate to ______."		INTL v2.0
-Prompt	"When I am a billionare, I shall erect a 20-meter statue to commemorate ______."		INTL v2.0
-Prompt	"When I am a billionare, I shall erect a 20-metre statue to commemorate ______."		AU v1.6|AU v1.7|CA v2.0|AU v2.0
-Prompt	"When I am a billionare, I shall erect a 50-foot statue to commemorate ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|US v1.7|CA v1.7|UK v1.7|CA v1.7a|US v2.0|UK v2.0|US v2.1
-Prompt	"When I am President of the United States, I will create the Department of ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7
-Prompt	"When I am President, I will create the Department of ______."		US v2.0|US v2.1
-Prompt	"When I am Prime Minister of Canada, I will create the Department of ______."		CA v1.7|CA v1.7a
-Prompt	"When I am Prime Minister of Canada, I will create the Ministry of ______."		CA v2.0
-Prompt	"When I am Prime Minister of the United Kingdom, I will create the Ministry�of ______."		UK v1.5|UK v1.6|UK v1.7|UK v2.0
-Prompt	"When I am Prime Minister, I will create the Department of ______."		AU v2.0
-Prompt	"When I am Prime Minister, I will create the Ministry of ______."		AU v1.6|AU v1.7|INTL v2.0
-Prompt	"When I pooped, what came out of my butt?"		INTL v2.0
-Prompt	"When I was tripping on acid, ______ turned into ______."	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"When I'm in prison, I'll have ______ smuggled in."		US v1.0|US v1.1
-Prompt	"When Pharaoh remained unmoved, Moses called down a Plague of ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Prompt	"When you get right down to it, ______ is just ______."	PICK 2	INTL v2.0
-Prompt	"While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on ______."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
+Prompt	When all else fails, I can always masturbate to ______.		INTL v2.0
+Prompt	When I am a billionare, I shall erect a 20-meter statue to commemorate ______.		INTL v2.0
+Prompt	When I am a billionare, I shall erect a 20-metre statue to commemorate ______.		AU v1.6|AU v1.7|CA v2.0|AU v2.0
+Prompt	When I am a billionare, I shall erect a 50-foot statue to commemorate ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|US v1.7|CA v1.7|UK v1.7|CA v1.7a|US v2.0|UK v2.0|US v2.1
+Prompt	When I am President of the United States, I will create the Department of ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7
+Prompt	When I am President, I will create the Department of ______.		US v2.0|US v2.1
+Prompt	When I am Prime Minister of Canada, I will create the Department of ______.		CA v1.7|CA v1.7a
+Prompt	When I am Prime Minister of Canada, I will create the Ministry of ______.		CA v2.0
+Prompt	When I am Prime Minister of the United Kingdom, I will create the Ministry�of ______.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
+Prompt	When I am Prime Minister, I will create the Department of ______.		AU v2.0
+Prompt	When I am Prime Minister, I will create the Ministry of ______.		AU v1.6|AU v1.7|INTL v2.0
+Prompt	When I pooped, what came out of my butt?		INTL v2.0
+Prompt	When I was tripping on acid, ______ turned into ______.	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	When I'm in prison, I'll have ______ smuggled in.		US v1.0|US v1.1
+Prompt	When Pharaoh remained unmoved, Moses called down a Plague of ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Prompt	When you get right down to it, ______ is just ______.	PICK 2	INTL v2.0
+Prompt	While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
 Prompt	White people like ______.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Prompt	Who stole the cookies from the cookie jar?		US v1.0|US v1.1
 Prompt	Why am I sticky?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	Why can't I sleep at night?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	Why do I hurt all over?		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Prompt	"With enough time and pressure, ______ will turn into ______."	PICK 2	INTL v2.0
-Prompt	"Your persistence is admirable, my dear Prince. But you cannot win my heart with ______ alone."		INTL v2.0
-Response	"""Tweeting."""		
+Prompt	With enough time and pressure, ______ will turn into ______.	PICK 2	INTL v2.0
+Prompt	Your persistence is admirable, my dear Prince. But you cannot win my heart with ______ alone.		INTL v2.0
+Response	"Tweeting."		
 Response	(I am doing Kegels right now.)		US v1.0|US v1.1
-Response	"10,000 Syrian refugees."		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Response	10,000 Syrian refugees.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	100% Pure New Zealand.		AU v1.6|AU v1.7|AU v2.0
 Response	2 Girls 1 Cup.		US v1.0|US v1.1
 Response	400 years of colonial atrocities.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Response	50 mg of Zoloft daily.		US v2.0|US v2.1
-Response	"50,000 volts straight to the nipples."		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Response	50,000 volts straight to the nipples.		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	72 virgins.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	8 oz. of sweet Mexican black-tar heroin.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|US v1.7|CA v1.7|UK v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|US v2.1
 Response	A bag of magic beans.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	A balanced breakfast.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Response	"A ball of earwax, semen, and toenail clippings."		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Response	A ball of earwax, semen, and toenail clippings.		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	A big black dick.		INTL v2.0
 Response	A big hoopla about nothing.		US v1.0|US v1.1|US v1.2|US v1.3
 Response	A bird that shits human turds.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -307,7 +307,7 @@ Response	A brain tumour.		UK v1.5|UK v1.6|AU v1.6|CA v1.7|UK v1.7|AU v1.7|CA v1.
 Response	A bucket of fish heads.		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6
 Response	A can of whoop-ass.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6
 Response	A caress of the inner thigh.		US v1.3
-Response	"A cartoon camel enjoying the smooth, refreshing taste of a cigarette."		US v1.0|US v1.1
+Response	A cartoon camel enjoying the smooth, refreshing taste of a cigarette.		US v1.0|US v1.1
 Response	A cat video so cute that your eyes roll back and your spine slides out of your anus.		INTL v2.0
 Response	A Chelsea smile.�		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Response	A Chinese tourist who wants something very badly but cannot communicate it.		INTL v2.0
@@ -315,7 +315,7 @@ Response	A clandestine butt scratch.		US v1.0|US v1.1|US v1.2
 Response	A cooler full of organs.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Response	A cop who is also a dog.		INTL v2.0
 Response	A crucifixion.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"A cute, fuzzy koala, but it has chlamydia."		AU v1.6|AU v1.7|AU v2.0
+Response	A cute, fuzzy koala, but it has chlamydia.		AU v1.6|AU v1.7|AU v2.0
 Response	A death ray.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
 Response	A decent fucking Internet connection.		AU v1.6|AU v1.7|AU v2.0
 Response	A defective condom.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|INTL v2.0
@@ -340,7 +340,7 @@ Response	A gassy antelope.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v
 Response	A gentle caress of the inner thigh.		US v1.1|US v1.2|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Response	A ginger's freckled ballsack.		UK v1.5|UK v1.6|UK v1.7
 Response	A good sniff.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"A good, strong gorilla."		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Response	A good, strong gorilla.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	A gossamer stream of jizz that catches the light as it arcs through the morning air.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	A grande sugar-free iced soy caramel macchiato.		US v1.0|US v1.1
 Response	A Gypsy curse.		US v1.1|US v1.2|UK v1.5
@@ -414,7 +414,7 @@ Response	A three-way with my wife and Shaquille O'Neal.		US v2.0|CA v2.0|AU v2.0
 Response	A Tim Hortons franchise.		CA v1.6
 Response	A time travel paradox.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	A tiny horse.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"A tiny, gay guitar called a ukulele."		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0
+Response	A tiny, gay guitar called a ukulele.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0
 Response	A tribe of warrior women.		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Response	A vagina that leads to another dimension.		INTL v2.0
 Response	A vajazzled vagina.		US v1.0|US v1.1
@@ -434,11 +434,11 @@ Response	Academy Award winner Meryl Streep.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US 
 Response	Accepting the way things are.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Accidentally slipping yourself a roofie.		US v1.0|US v1.1
 Response	Active listening.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
-Response	"Actually getting shot, for real."		INTL v2.0
+Response	Actually getting shot, for real.		INTL v2.0
 Response	Actually taking candy from a baby.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
 Response	Adderall�.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|US v1.7|US v2.0|US v2.1
 Response	Adult Friendfinder.		US v1.0|US v1.1
-Response	"Advice from a wise, old black man."		US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a
+Response	Advice from a wise, old black man.		US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a
 Response	African children.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Agriculture.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	AIDS.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -504,7 +504,7 @@ Response	Balls.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6
 Response	Bananas in Pajamas.		US v1.0|US v1.1
 Response	Bananas.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Barack Obama.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"Barely making $25,000 a year."		US v2.1
+Response	Barely making $25,000 a year.		US v2.1
 Response	Basic human decency.		INTL v2.0
 Response	BATMAN!		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	BATMAN!!!		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
@@ -539,12 +539,12 @@ Response	Bitches.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1
 Response	Black people.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|US v1.7|CA v1.7|UK v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|US v2.1
 Response	Bling.		US v1.1|US v1.2|US v1.3|US v1.4
 Response	Blood farts.		INTL v2.0
-Response	"Blood, toil, tears, and sweat."		UK v1.5|UK v1.6|UK v1.7|UK v2.0
+Response	Blood, toil, tears, and sweat.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Response	Blowing my boyfriend so hard he shits.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Blowing up Parliament.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
-Response	"Boat people; half boat, half human."		AU v1.6|AU v1.7
+Response	Boat people; half boat, half human.		AU v1.6|AU v1.7
 Response	Bogies.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
-Response	"Bond, James Bond."		US v1.0|US v1.1
+Response	Bond, James Bond.		US v1.0|US v1.1
 Response	Bono.		US v1.0|US v1.1
 Response	Booby-trapping the house to foil burglars.		US v1.0|US v1.1|US v1.2
 Response	Boogers.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|AU v2.0|US v2.1
@@ -589,7 +589,7 @@ Response	Chunks of dead prostitute.		US v1.3|US v1.4|US v1.5|UK v1.5
 Response	Chutzpah.		US v1.1|US v1.2|US v1.3
 Response	Civilian casualties.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Response	Classist undertones.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
-Response	"Clive Palmer's soft, shitty body."		AU v1.6|AU v1.7
+Response	Clive Palmer's soft, shitty body.		AU v1.6|AU v1.7
 Response	Clubbing baby seals.		CA v2.0
 Response	Coat hanger abortions.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Cock.		INTL v2.0
@@ -662,7 +662,7 @@ Response	Donald J. Trump.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Donald Trump.		US v1.1
 Response	Double penetration.		INTL v2.0
 Response	Douchebags on their iPhones.		US v1.0|US v1.1
-Response	"Dr. Martin Luther King, Jr."		US v1.0|US v1.1
+Response	Dr. Martin Luther King, Jr.		US v1.0|US v1.1
 Response	Drinking alone.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Drinking out of the toilet and eating garbage.		US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Drinking out of the toilet and eating rubbish.		UK v1.7|UK v2.0
@@ -673,7 +673,7 @@ Response	Druids.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Response	Drum circles.		US v1.0|US v1.1
 Response	Dry heaving.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Dwarf tossing.		US v1.0|US v1.1|US v1.2
-Response	"Dwayne ""The Rock"" Johnson."		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Response	Dwayne "The Rock" Johnson.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Dying alone and in pain.		INTL v2.0
 Response	Dying of dysentery.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6
 Response	Dying.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -788,9 +788,9 @@ Response	Getting drugs off the street and into my body.		US v2.0|CA v2.0|UK v2.0
 Response	Getting drunk on mouthwash.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
 Response	Getting fingered.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Getting into a pretty bad car accident.		US v2.1
-Response	"Getting married, having a few kids, buying some stuff, retiring to Florida, and dying."		US v1.3|US v1.4|US v1.5|US v1.6|US v1.7|US v2.0|CA v2.0|US v2.1
-Response	"Getting married, having a few kids, buying some stuff, retiring to Queensland, and dying."		AU v1.6|AU v1.7|AU v2.0
-Response	"Getting married, having a few kids, buying some stuff, retiring to the south of France, and dying."		UK v2.0
+Response	Getting married, having a few kids, buying some stuff, retiring to Florida, and dying.		US v1.3|US v1.4|US v1.5|US v1.6|US v1.7|US v2.0|CA v2.0|US v2.1
+Response	Getting married, having a few kids, buying some stuff, retiring to Queensland, and dying.		AU v1.6|AU v1.7|AU v2.0
+Response	Getting married, having a few kids, buying some stuff, retiring to the south of France, and dying.		UK v2.0
 Response	Getting naked and watching�CBeebies.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Response	Getting naked and watching Nickelodeon.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
 Response	Getting naked and watching Play School.		AU v1.6|AU v1.7|AU v2.0
@@ -798,7 +798,7 @@ Response	Getting pregnant again.		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Response	Getting really high.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Getting so angry that you pop a boner.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|US v1.7|CA v1.7|UK v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0
 Response	Getting so angry that you pop a stiffy.		AU v1.6|AU v1.7|AU v2.0
-Response	"Getting�wed, having a few kids,�taking some pictures, retiring to�the south of France, and dying."		UK v1.5|UK v1.6|UK v1.7
+Response	Getting�wed, having a few kids,�taking some pictures, retiring to�the south of France, and dying.		UK v1.5|UK v1.6|UK v1.7
 Response	Ghosts.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Girls who shouldn't go wild.		US v1.0|US v1.1
 Response	Girls.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -819,10 +819,10 @@ Response	GoGurt�.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|US 
 Response	Going an entire day without masturbating.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Going around punching people.		INTL v2.0
 Response	Golden showers.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
-Response	"Good-natured, fun-loving Aussie racism."		AU v1.6|AU v1.7|AU v2.0
+Response	Good-natured, fun-loving Aussie racism.		AU v1.6|AU v1.7|AU v2.0
 Response	Grandma.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Grandpa's ashes.		INTL v2.0
-Response	"Graphic violence, adult language, and some sexual content."		INTL v2.0
+Response	Graphic violence, adult language, and some sexual content.		INTL v2.0
 Response	Grave robbing.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|INTL v2.0
 Response	Growing a pair.		US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Response	Guys who don't call.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
@@ -843,8 +843,8 @@ Response	Having shotguns for legs.		INTL v2.0
 Response	Heartwarming orphans.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Heath Ledger.		US v1.0|US v1.1
 Response	Helplessly giggling at the mention of Hutus and Tutsis.		US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6
-Response	"Her Majesty, Queen Elizabeth II."		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"Her Royal Highness, Queen Elizabeth II."		US v1.0|US v1.1|US v1.2
+Response	Her Majesty, Queen Elizabeth II.		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Response	Her Royal Highness, Queen Elizabeth II.		US v1.0|US v1.1|US v1.2
 Response	Heritage minutes.		CA v1.6|CA v1.7|CA v1.7a|CA v2.0
 Response	Heritage minutes.		CA v1.7
 Response	Heroin.		INTL v2.0
@@ -877,7 +877,7 @@ Response	However much weed �20 can buy.		UK v1.7|UK v2.0
 Response	Huffing spray paint.		US v2.0|CA v2.0|US v2.1
 Response	Huge biceps.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Hulk Hogan.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5
-Response	"Hunting ""accidents""."		US v1.0|US v1.1
+Response	Hunting "accidents".		US v1.0|US v1.1
 Response	Hunting accidents.		
 Response	Hurling one's body down a hill in pursuit of a wheel of cheese.		UK v1.5|UK v1.6|UK v1.7
 Response	Hurricane Katrina.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6
@@ -907,7 +907,7 @@ Response	Jerking off into a pool of children's tears.		US v1.0|US v1.1|US v1.2|U
 Response	Jesus.		INTL v2.0
 Response	Jew-fros.		US v1.0|US v1.1|US v1.2
 Response	Jewish fraternities.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a
-Response	"Jews, gypsies, and homosexuals."		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Response	Jews, gypsies, and homosexuals.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Jibber-jabber.		US v1.1|US v1.2|US v1.3
 Response	Jimmy Savile.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Response	Jobs.		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -934,7 +934,7 @@ Response	Kim Jong-un.		INTL v2.0
 Response	Kissing grandma on the forehead and turning off her life support.		US v2.0|CA v2.0|INTL v2.0|US v2.1
 Response	Kissing nan on the forehead and turning off her life support.		UK v2.0|AU v2.0
 Response	Knife crime.		UK v2.0
-Response	"Kourtney, Kim, Khloe, Kendall, and Kylie."		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Response	Kourtney, Kim, Khloe, Kendall, and Kylie.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Lactation.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Lads.		UK v2.0
 Response	Lady Gaga.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|INTL v2.0
@@ -956,8 +956,8 @@ Response	Little boy penises.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Living in a trash can.		INTL v2.0
 Response	Living in Yellowknife.		CA v2.0
 Response	Lockjaw.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0
-Response	"Loki, the trickster god."		INTL v2.0
-Response	"Looking in the mirror, applying lipstick, and whispering ""tonight, you will have sex with Tom Cruise."""		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Response	Loki, the trickster god.		INTL v2.0
+Response	Looking in the mirror, applying lipstick, and whispering "tonight, you will have sex with Tom Cruise."		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Loose lips.		US v1.0|US v1.1|US v1.2|US v1.3
 Response	Lumberjack fantasies.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Lunchables�.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
@@ -975,11 +975,11 @@ Response	Mansplaining.		US v2.0|CA v2.0|US v2.1
 Response	Many bats.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Marky Mark and the Funky Bunch.		US v1.0|US v1.1
 Response	Martha Stewart.		US v1.0|US v1.1
-Response	"Massive, widespread drought."		AU v1.6|AU v1.7|AU v2.0
+Response	Massive, widespread drought.		AU v1.6|AU v1.7|AU v2.0
 Response	Masturbating.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Masturbation.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Response	Mathletes.		US v1.0|US v1.1|US v1.2
-Response	"Maureen of Blackpool, Reader's Wife of the Year 1988."		UK v1.5|UK v1.6|UK v1.7|UK v2.0
+Response	Maureen of Blackpool, Reader's Wife of the Year 1988.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Response	Me time.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Me.		INTL v2.0
 Response	MechaHitler.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0
@@ -1006,11 +1006,11 @@ Response	More elephant cock than I bargained for.		US v2.0|CA v2.0|UK v2.0|AU v2
 Response	Morgan Freeman's voice.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Mountain Dew Code Red.		US v1.1
 Response	Mouth herpes.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"Mr. Clean, right behind you."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a
+Response	Mr. Clean, right behind you.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a
 Response	Mr. Dressup.		CA v1.6|CA v1.7|CA v1.7a|CA v2.0
 Response	Mr. Dressup.		CA v1.7|CA v1.7a
 Response	Mr. Snuffleupagus.		US v1.0|US v1.1
-Response	"Mr. Squiggle, the Man from the Moon."		AU v1.6|AU v1.7|AU v2.0
+Response	Mr. Squiggle, the Man from the Moon.		AU v1.6|AU v1.7|AU v2.0
 Response	Muhammad (Peace Be Upon Him).		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Muhammad (Praise Be Unto Him).		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6
 Response	Multiple orgasms.		INTL v2.0
@@ -1029,7 +1029,7 @@ Response	My collection of high-tech sex toys.		US v1.0|US v1.1|US v1.2|US v1.3|U
 Response	My collection of Japanese sex toys.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	My ex-wife.		US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	My fat daughter.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"My father, who died when I was seven."		INTL v2.0
+Response	My father, who died when I was seven.		INTL v2.0
 Response	My first kill.		INTL v2.0
 Response	My genitals.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	My good bra.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -1038,11 +1038,11 @@ Response	My inner demons.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1
 Response	My little boner.		US v2.1
 Response	My machete.		INTL v2.0
 Response	My mate Dave.		UK v2.0
-Response	"My neck, my back, my pussy, and my crack."		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Response	My neck, my back, my pussy, and my crack.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	My relationship status.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	My sex life.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	My soul.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"My Uber driver, Pavel."		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Response	My Uber driver, Pavel.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	My ugly face and bad personality.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	My vagina.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Nachos for the table.		US v2.1
@@ -1077,7 +1077,7 @@ Response	Object permanence.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK 
 Response	Oestrogen.		AU v1.6|UK v1.7|AU v1.7|CA v2.0|UK v2.0|AU v2.0
 Response	Old-people smell.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Ominous background music.		INTL v2.0
-Response	"One Direction's supple, hairless bodies."		UK v1.5|UK v1.6|UK v1.7
+Response	One Direction's supple, hairless bodies.		UK v1.5|UK v1.6|UK v1.7
 Response	One Ring to rule them all.		INTL v2.0
 Response	One titty hanging out.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	One trillion dollars.		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -1179,16 +1179,16 @@ Response	Road head.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA 
 Response	Rob Ford.		CA v1.6|CA v1.7|CA v1.7a
 Response	Robbing a sperm bank.		US v1.0|US v1.1
 Response	Robert Downey Jr.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|INTL v2.0
-Response	"Robert Downey, Jr."		US v1.0|AU v1.6|CA v1.7|AU v1.7|CA v1.7a
+Response	Robert Downey, Jr.		US v1.0|AU v1.6|CA v1.7|AU v1.7|CA v1.7a
 Response	RoboCop.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Rohypnol.		UK v1.5
 Response	Ronald Reagan.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|US v1.7|US v2.0|US v2.1
 Response	Roofies.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5
 Response	Rubbing�Boris Johnson's belly until he falls asleep.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
-Response	"Running naked through a mall, pissing and shitting everywhere."		INTL v2.0
+Response	Running naked through a mall, pissing and shitting everywhere.		INTL v2.0
 Response	Running out of semen.		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Rupert Murdoch.		AU v1.6|AU v1.7|AU v2.0
-Response	"Rush Limbaugh's soft, shitty body."		US v1.3|US v1.4|US v1.5|US v1.6|US v1.7
+Response	Rush Limbaugh's soft, shitty body.		US v1.3|US v1.4|US v1.5|US v1.6|US v1.7
 Response	Ruth Bader Ginsburg brutally gaveling your penis.		US v2.0|US v2.1
 Response	Ryan Gosling riding in on a white horse.		INTL v2.0
 Response	Same-sex ice dancing.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6
@@ -1196,7 +1196,7 @@ Response	Samuel L. Jackson.		INTL v2.0
 Response	Santa Claus.		INTL v2.0
 Response	Sarah Palin.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4
 Response	Saxophone solos.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5
-Response	"Saying ""I love you."""		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Response	Saying "I love you."		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Scalping�the�Milkybar Kid.		UK v1.5|UK v1.6|AU v1.6|UK v1.7|AU v1.7
 Response	Scalping.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5
 Response	Schmirler the Curler.		CA v1.6
@@ -1256,25 +1256,25 @@ Response	Slaughtering innocent civilians.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL 
 Response	Slavs.		INTL v2.0
 Response	Smallpox blankets.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
 Response	Smegma.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
-Response	"Sneezing, farting, and cumming at the same time."		INTL v2.0
+Response	Sneezing, farting, and cumming at the same time.		INTL v2.0
 Response	Sniffing and kissing my feet.		US v2.1
 Response	Sniffing glue.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|UK v2.0|AU v2.0|INTL v2.0
 Response	Snotsicles.		CA v1.6
 Response	Sobbing into a Hungry-Man� Frozen Dinner.		US v1.1
-Response	"Soft, kissy missionary sex."		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Response	Soft, kissy missionary sex.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Soiling oneself.		US v1.0|US v1.1|US v1.2
 Response	Solving problems with violence.		US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Somali pirates.		UK v2.0
 Response	Some�bloody�peace and quiet.		UK v1.5|UK v1.6|AU v1.6|UK v1.7|AU v1.7|UK v2.0|AU v2.0
 Response	Some douche with an acoustic guitar.		INTL v2.0
-Response	"Some foundation, mascara, and a touch of blush."		US v2.1
+Response	Some foundation, mascara, and a touch of blush.		US v2.1
 Response	Some god damn peace and quiet.		US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
 Response	Some guy.		US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Some kind of bird man.		INTL v2.0
 Response	Some of the best rappers in the game.		US v2.0|CA v2.0|US v2.1
 Response	Some punk kid who stole my turkey sandwich.		US v2.0|CA v2.0|US v2.1
 Response	Some really fucked-up shit.		INTL v2.0
-Response	"Sorry, this content cannot be viewed in your region."		AU v1.6|AU v1.7|AU v2.0
+Response	Sorry, this content cannot be viewed in your region.		AU v1.6|AU v1.7|AU v2.0
 Response	Soup that is too hot.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Spaghetti? Again?		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Spaniards.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
@@ -1284,7 +1284,7 @@ Response	Sperm whales.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|
 Response	Spirit Airlines.		US v2.1
 Response	Spontaneous human combustion.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Stalin.		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"Staring at a painting and going ""hmmmmmmm..."""		INTL v2.0
+Response	Staring at a painting and going "hmmmmmmm..."		INTL v2.0
 Response	Stephen Harper.		CA v1.6|CA v1.7|CA v1.7a
 Response	Stephen Harper.		CA v1.7
 Response	Stephen Hawking talking dirty.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0
@@ -1305,7 +1305,7 @@ Response	Summoning Harold Holt from the sea in a time of great need.		AU v1.6|AU
 Response	Sunshine and rainbows.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Surprise sex!		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Response	Swag.		US v1.5|UK v1.5
-Response	"Sweet, sweet vengeance."		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
+Response	Sweet, sweet vengeance.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Switching to Geico�.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
 Response	Swooping.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	Synergistic management solutions.		US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
@@ -1350,10 +1350,10 @@ Response	The Care Bear Stare.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|C
 Response	The Chinese gymnastics team.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a
 Response	The chronic.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6
 Response	The clitoris.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"The cool, refreshing taste of Coca-Cola�."		AU v1.6|AU v1.7|AU v2.0
-Response	"The cool, refreshing taste of Pepsi."		UK v1.5|UK v1.6|UK v1.7
-Response	"The cool, refreshing taste of Pepsi�."		US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|INTL v2.0|US v2.1
-Response	"The crazy, ball-slapping sex your parents are having right now."		INTL v2.0
+Response	The cool, refreshing taste of Coca-Cola�.		AU v1.6|AU v1.7|AU v2.0
+Response	The cool, refreshing taste of Pepsi.		UK v1.5|UK v1.6|UK v1.7
+Response	The cool, refreshing taste of Pepsi�.		US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|INTL v2.0|US v2.1
+Response	The crazy, ball-slapping sex your parents are having right now.		INTL v2.0
 Response	The Daily Mail.		UK v2.0
 Response	The Dalai Lama.		INTL v2.0
 Response	The Dance of the Sugar Plum Fairy.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5
@@ -1415,7 +1415,7 @@ Response	The only gay person in a hundred miles.		US v2.0|CA v2.0|UK v2.0|US v2.
 Response	The opioid epidemic.		US v2.1
 Response	The past.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	The Patriarchy.		US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
-Response	"The penny whistle solo from ""My Heart Will Go On."""		US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
+Response	The penny whistle solo from "My Heart Will Go On."		US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	The People's Elbow.		US v1.0|US v1.1
 Response	The petty troubles of the�landed gentry.		UK v1.5|UK v1.6|UK v1.7|UK v2.0
 Response	The pirate's life.		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|INTL v2.0
@@ -1427,7 +1427,7 @@ Response	The prunes I've been saving for you in my armpits.		INTL v2.0
 Response	The Rapture.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|US v1.6|CA v1.6|US v1.7|CA v1.7|CA v1.7a|US v2.0|CA v2.0|US v2.1
 Response	The Red Hot Chili Peppers.		US v2.0|US v2.1
 Response	The Red Menace.		US v1.0
-Response	"The Rev. Dr. Martin Luther King, Jr."		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|US v1.7|CA v1.7|UK v1.7|CA v1.7a
+Response	The Rev. Dr. Martin Luther King, Jr.		US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|US v1.7|CA v1.7|UK v1.7|CA v1.7a
 Response	The rhythms of Africa.		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|US v2.1
 Response	The Royal Canadian Mounted Police.		CA v1.6|CA v1.7|CA v1.7a|CA v2.0
 Response	The Russians.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
@@ -1473,7 +1473,7 @@ Response	Throwing a virgin into a volcano.		US v1.3|US v1.4|US v1.5|UK v1.5|US v
 Response	Throwing grapes at a man until he loses touch with reality.		US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Response	Tickle Me Elmo.		US v1.0|US v1.1
 Response	Tickle Me Elmo�.		
-Response	"Tickling Sean Hannity, even after he tells you to stop."		US v1.4|US v1.5
+Response	Tickling Sean Hannity, even after he tells you to stop.		US v1.4|US v1.5
 Response	Tiger Woods.		US v1.0|US v1.1
 Response	Tiny nipples.		INTL v2.0
 Response	Tom Cruise.		US v1.0|US v1.1|US v1.2|US v1.3|US v1.4|US v1.5|UK v1.5|US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|INTL v2.0
@@ -1556,13 +1556,13 @@ Response	YOU MUST CONSTRUCT ADDITIONAL PYLONS.		US v1.0|US v1.1|US v1.2|US v1.3|
 Response	Your mum.		UK v2.0
 Response	Your weird brother.		US v1.6|UK v1.6|CA v1.6|AU v1.6|US v1.7|CA v1.7|UK v1.7|AU v1.7|CA v1.7a|US v2.0|CA v2.0|UK v2.0|AU v2.0|INTL v2.0|US v2.1
 Prompt	Air Canada guidelines now prohibit ______ on airplanes.		US v1.0|US v1.1|US v1.2|US v1.3
-Prompt	"CTV presents ______, the story of ______."	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3
-Prompt	"In an attempt to reach a wider audience, the Royal Ontario Museum has opened an interactive exhibit on ______."		
+Prompt	CTV presents ______, the story of ______.	PICK 2	US v1.0|US v1.1|US v1.2|US v1.3
+Prompt	In an attempt to reach a wider audience, the Royal Ontario Museum has opened an interactive exhibit on ______.		
 Prompt	Next on TSN: The World Series of ______.		US v1.3
-Prompt	"O Canada, we stand on guard for ______."		US v1.0|US v1.1|US v1.2|US v1.3
+Prompt	O Canada, we stand on guard for ______.		US v1.0|US v1.1|US v1.2|US v1.3
 Prompt	The Royal Ontario Museum has just opened an interactive exhibit on ______.		US v1.0|US v1.1|US v1.2|US v1.3
 Prompt	What's the Canadian government using to inspire rural students to succeed?		US v1.0|US v1.1|US v1.2|US v1.3
-Prompt	"When I am Prime Minister of Canada, I will create the Department of ______."		US v1.3
+Prompt	When I am Prime Minister of Canada, I will create the Department of ______.		US v1.3
 Response	A Molson muscle.		
 Response	A Tim Hortons franchise.		US v1.0|US v1.1|US v1.2|US v1.3
 Response	An icy handjob from an Edmonton hooker.		US v1.0|US v1.1|US v1.2|US v1.3
@@ -1588,16 +1588,16 @@ Response	The Official Languages Act. La Loi sur les langues officielles.		US v1.
 Response	The Royal Canadian Mounted Police.		US v1.0|US v1.1|US v1.2|US v1.3
 Prompt	________________? Jim�ll fix it!		
 Prompt	______________. That�s why mums go to Iceland.		
-Prompt	"_____________. Once you pop, the fun don�t stop!"		
+Prompt	_____________. Once you pop, the fun don�t stop!		
 Prompt	And the BAFTA for ___________ goes to __________.	PICK 2	
 Prompt	Channel 4 presents �________: the Story of ______.�	PICK 2	
 Prompt	Channel 5�s new reality show features eight washed-up celebrities living with ____________.		
-Prompt	"Coming to the West End this year, _________________: The Musical."		
-Prompt	"Dear Agony Aunt, I�m having some trouble with ____________ and would like your advice."		
-Prompt	"In her latest feature-length film, Tracy Beaker struggles with ___________ for the first time."		
-Prompt	"In Wormwood Scrubs, word is you can trade 200 cigarettes for ___________."		
+Prompt	Coming to the West End this year, _________________: The Musical.		
+Prompt	Dear Agony Aunt, I�m having some trouble with ____________ and would like your advice.		
+Prompt	In her latest feature-length film, Tracy Beaker struggles with ___________ for the first time.		
+Prompt	In Wormwood Scrubs, word is you can trade 200 cigarettes for ___________.		
 Prompt	Next on Sky Sports: The World Championship of _______________.		
-Prompt	"Nobody expects the Spanish Inquisition! Our chief weapons are fear, surprise, and __________."		
+Prompt	Nobody expects the Spanish Inquisition! Our chief weapons are fear, surprise, and __________.		
 Prompt	TFL apologizes for the delay in train service due to ___________.		
 Prompt	The Natural History Museum has just opened an interactive exhibit on ____________.		
 Prompt	The theme for next year�s Eurovision Song Contest is �We are _____________.�		
@@ -1605,7 +1605,7 @@ Prompt	Today on The Jeremy Kyle Show: �Help! My son is _________________!�
 Prompt	What are school administrators using to curb rampant teenage pregnancy?		
 Prompt	What did I bring back from Amsterdam?		
 Prompt	What kept Margaret Thatcher busy in her waning years?		
-Prompt	"When I am Prime Minister of the United Kingdom, I will create the Ministry of __________."		
+Prompt	When I am Prime Minister of the United Kingdom, I will create the Ministry of __________.		
 Response	400 years of colonial atrocities.		
 Response	A bit of slap and tickle.		
 Response	A Chelsea smile.		
@@ -1624,7 +1624,7 @@ Response	An entrenched class system.
 Response	Anything that comes out of Prince Philip�s mouth.		
 Response	Badger culling.		
 Response	Being hunted like a fox.		
-Response	"Blood, toil, tears, and sweat."		
+Response	Blood, toil, tears, and sweat.		
 Response	Blowing up Parliament.		
 Response	Buckfast Tonic Wine		
 Response	Cheeky bum sex.		
@@ -1644,7 +1644,7 @@ Response	Gary Glitter.
 Response	Gentleman�s Relish.�		
 Response	Germans on holiday.		
 Response	Getting naked and watching CBeebies.		
-Response	"Getting wed, having a few kids, taking some pictures, retiring to the south of France, and dying."		
+Response	Getting wed, having a few kids, taking some pictures, retiring to the south of France, and dying.		
 Response	Haggis.		
 Response	Hurling one�s body down a hill in pursuit of a wheel of cheese.		
 Response	Jade Goody�s cancerous remains.		
@@ -1654,10 +1654,10 @@ Response	Jimmy Savile
 Response	Just touching David Beckham�s hair.		
 Response	Leaked footage of Kate Middleton�s colonoscopy.		
 Response	Madeleine McCann.		
-Response	"Maureen of Blackpool, Reader�s Wife of the Year 1988."		
+Response	Maureen of Blackpool, Reader�s Wife of the Year 1988.		
 Response	Millwall fans.		
 Response	Mining accidents.		
-Response	"One Direction�s supple, hairless bodies."		
+Response	One Direction�s supple, hairless bodies.		
 Response	Pronouncing the names of northern Welsh towns.		
 Response	Queen Elizabeth�s immaculate anus.		
 Response	Ripping off the Beatles.		
